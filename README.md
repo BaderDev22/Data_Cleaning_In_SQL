@@ -1,4 +1,4 @@
-# Project README: SQL Project - Data Cleaning
+# SQL Project - Data Cleaning
 
 ## Project Overview
 This project involves cleaning and preparing a dataset sourced from Kaggle on layoffs in 2022. The dataset, located [here](https://www.kaggle.com/datasets/swaptr/layoffs-2022), contains information about layoffs across various companies worldwide.
